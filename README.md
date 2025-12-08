@@ -12,14 +12,6 @@ Previously: AI engineering @ Med-X Global (healthcare), NetPaisa (fintech) | Fou
 
 ---
 
-## Featured Projects
-
-**[neuroscope](https://github.com/rohaktiwari/neuroscope)** — Interpretability toolkit for inspecting transformer neurons and visualizing attention in GPT-2
-
-**[ConsentLens](https://github.com/rohaktiwari/ConsentLens)** — Privacy analysis tool that reveals what ML models can infer from your documents (runs locally)
-
----
-
 ## Research
 
 **Diagnosis & Risk Analysis of MS using Quantum ML** (ICPCT 2025) • [Paper](https://doi.org/10.1109/ICPCT64145.2025.10940499)
